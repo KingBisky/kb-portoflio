@@ -1,5 +1,7 @@
 # Kang Bin Wong — Portfolio
 
+# Just experimenting only, in the meantime still tryna make a portfolio site on Wixsite
+
 A responsive Next.js portfolio designed for Vercel deployment.
 
 ## Features
